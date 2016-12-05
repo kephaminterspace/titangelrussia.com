@@ -79,7 +79,7 @@
         <link rel="stylesheet" href="files/style.css">
         <link rel="stylesheet" href="files/responsive.css">
         <link rel="stylesheet" href="files/style(1).css">
-        <title>Nhà cung cấp Titan gel Nga ở Việt Nam. Titan Gel kem cho dương vật to dài</title>
+        <title>Nhà cung cấp Titan Gel Nga ở Việt Nam. Titan Gel kem làm Dương Vật to dài, kéo dài thời gian quan hệ</title>
         <meta name="description" content="100% Thành phần tự nhiên, giao hàng nhanh, thanh toán khi nhận hàng.">
         <meta name="keywords" content="титан гель, titan gel, купить титан гель">
         <meta name="yandex-verification" content="4f5e61227da0398e">
@@ -143,15 +143,15 @@
                             <img src="files/titan_sm.png" alt="" class="img-left">
                             <div class="exp_text">
                                 <div class="exp_bold">Hiệu quả.</div>
-                                <div class="exp_desc">Chỉ trong 4 tuần, Dương vật tăng 5-7 cm chiều dài!</div>
+                                <div class="exp_desc">Chỉ trong 4 tuần, Dương vật tăng 3-5 cm chiều dài!</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-xs-4 col_text">
                         <div class="text-right">
                             <div class="addr_name">
-                                <div class="oo_name">&lt;Titanium Gel .ltd&gt;</div>
-                                <div class="sub_addres"><h4>Titan Gel Nga - Kem số 1 làm tăng kích thước Dương Vật, Thể hiện bản lĩnh đàn ông</h4></div>
+                                <div class="oo_name">&lt;Titan Gel Nga&gt;</div>
+                                <div class="sub_addres"><h4>Kem số 1 làm tăng kích thước Dương Vật, kéo dài thời gian quan hệ. Thể hiện bản lĩnh đàn ông</h4></div>
                             </div>
                         </div>
                     </div>
@@ -172,8 +172,8 @@
                         <li><img src="files/icon-list-5.png" alt=""> Giúp bạn tự tin trong mỗi cuộc yêu</li>
                     </ul>
                     <div class="garants_sub">
-                        <span class="garant_n">100%</span>
-                        <div class="garant_t">kết quả đảm bảo</div>
+                        <span class="garant_n">Mua 2</span>
+                        <div class="garant_t">/&nbspTặng 1</div>
                     </div>
                 </div>
                 <div class="col-xs-4 col_image">
@@ -183,7 +183,7 @@
                 </div>
                 <div class="col-xs-4 col_form">
                     <!--noindex-->
-                    <div class="title_form">Để tư vấn, đặt hàng chỉ cần điền vào mẫu</div>
+                    <div class="title_form">Đặt hàng chỉ cần điền vào mẫu</div>
                     <div  width="100%" scrolling="no" height="460" class="" frameborder="0">
                         <?php if(isset($message)){ ?>
                             <p style="color: red; text-align: center;"> <?php echo $message; ?></p>
@@ -290,7 +290,7 @@
                 <div class="sidebar-left">
                     <div class="consist_side">
                         <div class="titan">Titan Gel</div>
-                        <div class="title_res">Cam kết 100% hiệu quả:</div>
+                        <div class="title_res">Cam kết hiệu quả:</div>
                         <div class="list-consist">
                             <div class="select_no">
                                 <p><b>Triethanolamine</b> – làm cho quan hệ tình dục kéo dài, trì hoãn xuất tinh.</p>
@@ -310,7 +310,7 @@
                         <div class="war-title"><span>Cảnh báo!</span></div>
                         <div class="war-text">
                             <p>
-                                Trang web của chúng tôi là nhà phân phối chính Titan Gel Nga ở Việt Nam. Cảnh báo các sản phẩm Titan Gel bên ngoài của trang web này - nó không phải là hoàn toàn phù hợp với các ban, Nó không những làm bạn mất tiền mà còn ảnh hưởng đến sức khỏe của bạn, nói cách khác đó là hàng kém chất lượng, không cho kết quả mong muốn.
+                                Trang web của chúng tôi là nhà cung cấp Titan Gel Nga ở Việt Nam. Cảnh báo các sản phẩm Titan Gel bên ngoài của trang web này - nó không phải là hoàn toàn phù hợp với các Bạn, Nó không những làm bạn mất tiền mà còn ảnh hưởng đến sức khỏe của bạn, nói cách khác đó là hàng kém chất lượng, không cho kết quả mong muốn.
                             </p>
 
                             <p>
@@ -318,7 +318,7 @@
                             </p>
 
                             <p>
-                                Hãy coi chừng hàng giả và chỉ có thể được đặt trên trang web của chúng tôi để có được một sản phẩm chất lượng 100% với giá cả phải chăng!
+                                Hãy coi chừng hàng giả và chỉ có thể được đặt trên trang web của chúng tôi để có được một sản phẩm chất lượng với giá cả phải chăng!
                             </p>
                         </div>
                     </div>
@@ -329,7 +329,7 @@
                             <div class="text">
                                 <div class="select_no">
                                     <p>
-                                        <strong>Titan Gel</strong> dẫn đầu thị trường công nghệ tăng thời gian quan hệ tình dục và kích thước dương vật, đảm bảo tăng kích thước của nó lên đến 5-7 cm. Nó là một sản phẩm an toàn mà không gây phản ứng phụ và dị ứng, không dẫn đến sự xuất hiện của tác dụng gây nghiện, vì trong thành phần của nó - có các nguyên liệu tự nhiên đã được phê duyệt bởi các bác sĩ.
+                                        <strong>Titan Gel</strong> dẫn đầu thị trường công nghệ tăng thời gian quan hệ tình dục và kích thước dương vật, đảm bảo tăng kích thước của nó lên đến 3-5 cm. Nó là một sản phẩm an toàn mà không gây phản ứng phụ và dị ứng, không dẫn đến sự xuất hiện của tác dụng gây nghiện, vì trong thành phần của nó - có các nguyên liệu tự nhiên đã được phê duyệt bởi các bác sĩ.
                                     </p>
                                     <p>
                                         Mua Titan Gel - là bước đầu tiên trong việc giải quyết một vấn đề mà nhiều phụ nữ than phiền(cụ thể là kích thước không đủ để mang đến cực khoái của đối tác của bạn). Kem Titan gel sẽ giúp tăng đáng kể kích thước dương vật và mang đến cho bạn cơ hội để làm cho cuộc sống tình dục của bạn sáng hơn nhiều, quan hệ tình dục sẽ đem lại cho bạn sự hài lòng đến kinh ngạc và đạt độ cực khoái với cường độ cao nhất, bền và độc đáo, có thể thay đổi cuộc sống của bạn mãi mãi!
@@ -405,7 +405,7 @@
                             <span class="week_n">4 tuần</span>
                             <div class="text">
                                 <div class="select_no">
-                                    Chiều cao 5-7 cm! Sex trở nên tốt hơn. Thời hạn của một cực khoái đang phát triển và nó đến nhanh hơn, trong khi duy trì kiểm soát.
+                                    Chiều cao 3-5 cm! Sex trở nên tốt hơn. Thời hạn của một cực khoái đang phát triển và nó đến nhanh hơn, trong khi duy trì kiểm soát.
                                 </div>
                             </div>
                         </div>
@@ -436,7 +436,7 @@
                     </div>
                     <div class="copy-footer" style="text-align: center;">
                         <div>«Titan Gel» - Tăng kích thước dương vật</div>
-                        <div>Trang web chính phân phối Titan Gel ở Việt Nam</div>
+                        <div>Trang web cung cấp Titan Gel ở Việt Nam</div>
 
                     </div>
                 </div>
