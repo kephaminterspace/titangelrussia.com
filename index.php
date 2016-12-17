@@ -442,7 +442,7 @@
                 </div>
 
                 <div class="col-xs-4 fm-footer">
-                    <div class="fb-page" data-href="https://www.facebook.com/Gel-Titan-Nga-231749287238252"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-231749287238252/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-231749287238252/">Gel Titan Nga</a></blockquote></div>
+                    <div class="fb-page" data-href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-231749287238252/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-231749287238252/">Gel Titan Nga</a></blockquote></div>
                 </div>
 
                 <div class="col-xs-4 fm-footer">
