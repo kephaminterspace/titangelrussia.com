@@ -72,7 +72,7 @@
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
         <link rel="stylesheet" href="files/bootstrap.min.css">
-        <link rel="stylesheet" href="files/bootstrap-theme.min.css">
+<!--        <link rel="stylesheet" href="files/bootstrap-theme.min.css">-->
         <link rel="stylesheet" href="files/magnific-popup.css">
         <link rel="stylesheet" href="files/owl.carousel.css">
         <link rel="stylesheet" href="files/jquery.countdown.css">
@@ -428,7 +428,7 @@
                     </div>
                     <div class="social">
                         <ul>
-                            <li><a href="https://www.facebook.com/TitanGelNgaHaNoi" class="fb" target="_blank"></a></li>
+                            <li><a href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/" class="fb" target="_blank"></a></li>
                             <li><a href="#dat_hang" class="tw"></a></li>
                             <li><a href="#dat_hang" class="vk"></a></li>
                             <li><a href="#dat_hang" class="ok"></a></li>
@@ -442,7 +442,7 @@
                 </div>
 
                 <div class="col-xs-4 fm-footer">
-                    <div class="fb-page" data-href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-231749287238252/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-231749287238252/">Gel Titan Nga</a></blockquote></div>
+                    <div class="fb-page" data-href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/">Gel Titan Nga</a></blockquote></div>
                 </div>
 
                 <div class="col-xs-4 fm-footer">
@@ -453,9 +453,6 @@
                         <a href="#dat_hang" class="redbtn">Đặt hàng</a>
                     </div>
                 </div>
-
-
-
             </div>
         </div>
     </footer>
@@ -475,5 +472,5 @@
             itemsDesktopSmall : [979,3]
         });
     </script>
-
+    <script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",56434]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script>
     </body></html>
