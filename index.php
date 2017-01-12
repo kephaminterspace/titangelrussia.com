@@ -197,34 +197,35 @@
                                 <div class="block_form">
                                     <select name="quantity" style="height:35px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 1px solid rgb(136, 136, 136); border-radius: 5px;">
                                         <option value="1">
-                                            1
+                                            1 Tuýp
                                         </option>
                                         <option value="2">
-                                            2
+                                            2 Tuýp
                                         </option>
                                         <option value="3">
-                                            3
+                                            3 Tuýp
                                         </option>
                                         <option value="4">
-                                            4
+                                            4 Tuýp
                                         </option>
                                         <option value="5">
-                                            5
+                                            5 Tuýp
                                         </option>
                                         <option value="6">
-                                            6
+                                            6 Tuýp
                                         </option>
                                         <option value="7">
-                                            7
+                                            7 Tuýp
                                         </option>
                                         <option value="8">
-                                            8
+                                            8 Tuýp
                                         </option>
                                         <option value="9">
-                                            9
+                                            9 Tuýp
                                         </option>
                                         <option value="10">
-                                            10
+                                            10 Tuýp
+                                        </option>
                                     </select>
                                 </div>
 
