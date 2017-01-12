@@ -175,7 +175,7 @@
                 </div>
                 <div class="col-xs-4 col_form">
                     <!--noindex-->
-                    <div class="title_form">Đặt hàng chỉ cần điền vào mẫu</div>
+<!--                    <div class="title_form">Đặt hàng chỉ cần điền vào mẫu</div>-->
                     <div  width="100%" scrolling="no" height="460" class="" frameborder="0">
                         <?php if(isset($message)){ ?>
                             <p style="color: red; text-align: center;"> <?php echo $message; ?></p>
@@ -237,7 +237,7 @@
 
                                 <div class="clear"></div>
                             </div>
-                            <button class="ifr_button" type="submit">Gửi</button>
+                            <button class="ifr_button" type="submit">ĐẶT HÀNG NGAY</button>
                         </form>
 
                     </div>

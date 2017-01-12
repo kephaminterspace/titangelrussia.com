@@ -18,7 +18,7 @@
 .order_form .fhelp{font-size:14px;color:#929292;display:block;padding-top: 10px;}
 .errorMessage{position: absolute;z-index: 10000; font-size:14px;background: #e74c3c;color:#fff;padding:6px 7px 5px;margin:3px 0px 0px 1px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;font-family: Arial;}
 /*button begin*/
-.ifr_button{font-family: Arial; display: block;margin: 20px auto; border:none; outline:none;color: #fff;font-size:24px;text-decoration: none;text-align: center;width: 180px;height: 51px;line-height: 48px;background: #e74c3c;font-weight:700;border-bottom:2px solid #c0392b;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;cursor: pointer;}	
+.ifr_button{font-family: Arial; display: block;margin: 20px auto; border:none; outline:none;color: #fff;font-size:24px;text-decoration: none;text-align: center;width: 250px;height: 51px;line-height: 48px;background: #e74c3c;font-weight:700;border-bottom:2px solid #c0392b;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;cursor: pointer;}
 .ifr_button:hover{background: #e75c4e;}
 .ifr_button:active{background: #c0392b;}
 /*button end*/
