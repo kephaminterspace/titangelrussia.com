@@ -6,16 +6,8 @@
             $arr = array(
                 'properties' => array(
                     array(
-                        'property' => 'email',
-                        'value' => $t.'@fmail.com'
-                    ),
-                    array(
                         'property' => 'firstname',
                         'value' => $_POST['name']
-                    ),
-                    array(
-                        'property' => 'lastname',
-                        'value' => ''
                     ),
                     array(
                         'property' => 'phone',
@@ -24,6 +16,10 @@
                     array(
                         'property' => 'address',
                         'value' => $_POST['address']
+                    ),
+                    array(
+                        'property' => 'quantity',
+                        'value' => $_POST['quantity']
                     ),
                     array(
                         'property' => 'ghi_chu',
@@ -52,10 +48,6 @@
             $status_code = @curl_getinfo($ch, CURLINFO_HTTP_CODE);
             $curl_errors = curl_error($ch);
             @curl_close($ch);
-
-            echo($status_code);
-
-
             if ($status_code == 200) {
                 header('Location: thank.php');
                 die();
@@ -199,11 +191,45 @@
                                 </div>
 
                                 <div class="block_form">
-                                    <input type="text" id="address" name="address" value="<?php if(isset($_POST['address'])) { echo $_POST['address']; } ?>"  placeholder='Địa chỉ'/>
+                                    <input type="text" id="address" name="address" value="<?php if(isset($_POST['address'])) { echo $_POST['address']; } ?>"  placeholder='Địa chỉ *' required oninvalid="setCustomValidity('Địa chỉ không để trống')" oninput="setCustomValidity('')"/>
                                 </div>
 
                                 <div class="block_form">
-                                    <textarea name="ghi_chu" rows="4" cols="0" placeholder="Ghi chú" style="width: 100%;padding: 10px;border: #888 1px solid; border-radius: 5px;"></textarea>
+                                    <select name="quantity" style="height:35px; width: 100%; background: rgb(255, 255, 255) none repeat scroll 0% 0%; border: 1px solid rgb(136, 136, 136); border-radius: 5px;">
+                                        <option value="1">
+                                            1
+                                        </option>
+                                        <option value="2">
+                                            2
+                                        </option>
+                                        <option value="3">
+                                            3
+                                        </option>
+                                        <option value="4">
+                                            4
+                                        </option>
+                                        <option value="5">
+                                            5
+                                        </option>
+                                        <option value="6">
+                                            6
+                                        </option>
+                                        <option value="7">
+                                            7
+                                        </option>
+                                        <option value="8">
+                                            8
+                                        </option>
+                                        <option value="9">
+                                            9
+                                        </option>
+                                        <option value="10">
+                                            10
+                                    </select>
+                                </div>
+
+                                <div class="block_form">
+                                    <textarea name="ghi_chu" rows="2" cols="0" placeholder="Ghi chú" style="width: 100%;padding: 10px;border: #888 1px solid; border-radius: 5px;"></textarea>
                                 </div>
                                 <p>Hotline: <strong style="font-size: 23px;color: red;">01635 243 892</strong></p>
                                 <p>Giá: <b>750.000 đ</b></p>
@@ -472,5 +498,4 @@
             itemsDesktopSmall : [979,3]
         });
     </script>
-    <script type='text/javascript'>window._sbzq||function(e){e._sbzq=[];var t=e._sbzq;t.push(["_setAccount",56434]);var n=e.location.protocol=="https:"?"https:":"http:";var r=document.createElement("script");r.type="text/javascript";r.async=true;r.src=n+"//static.subiz.com/public/js/loader.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)}(window);</script>
     </body></html>
