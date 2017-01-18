@@ -110,8 +110,28 @@
 
 
     </head>
-    <body>
 
+    <!-- Google Code for Gel Titan Conversion Page -->
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 1020901928;
+        var google_conversion_language = "en";
+        var google_conversion_format = "3";
+        var google_conversion_color = "ffffff";
+        var google_conversion_label = "4O-JCOTeum0QqPTm5gM";
+        var google_remarketing_only = false;
+        /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+        <div style="display:inline;">
+            <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1020901928/?label=4O-JCOTeum0QqPTm5gM&amp;guid=ON&amp;script=0"/>
+        </div>
+    </noscript>
+
+
+    <body>
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
             var js, fjs = d.getElementsByTagName(s)[0];
@@ -337,15 +357,15 @@
                         <div class="war-title"><span>Cảnh báo!</span></div>
                         <div class="war-text">
                             <p>
-                                Trang web của chúng tôi là nhà cung cấp Titan Gel Nga ở Việt Nam. Cảnh báo các sản phẩm Titan Gel bên ngoài của trang web này - nó không phải là hoàn toàn phù hợp với các Bạn, Nó không những làm bạn mất tiền mà còn ảnh hưởng đến sức khỏe của bạn, nói cách khác đó là hàng kém chất lượng, không cho kết quả mong muốn.
+                                Trang web của chúng tôi là nhà cung cấp Titan Gel Nga ở Việt Nam. Cảnh báo các sản phẩm Titan Gel bên ngoài - nó không phải là hoàn toàn phù hợp với các Bạn, Nó không những làm bạn mất tiền mà còn ảnh hưởng đến sức khỏe của bạn, nói cách khác đó là hàng kém chất lượng, không cho kết quả mong muốn.
                             </p>
 
                             <p>
-                                Sự nhầm lẫn của đa số khách hàng là mua nhầm sản phẩm khác bị người bán hàng quảng cáo đánh tráo mà nghĩ đó là Titan Gel, khi sử dụng không hiệu quả lại nghĩ Titan Gel lừa
+                                Sự nhầm lẫn của đa số khách hàng là mua nhầm phải Titan Gel giả, kém chất lượng mà nghĩ đó là Titan Gel, khi sử dụng không hiệu quả lại nghĩ Titan Gel lừa
                             </p>
 
                             <p>
-                                Hãy coi chừng hàng giả và chỉ có thể được đặt trên trang web của chúng tôi để có được một sản phẩm chất lượng với giá cả phải chăng!
+                                Hãy coi chừng hàng giả và hãy đặt hàng trên website của chúng tôi để được một sản phẩm chất lượng với giá cả phải chăng!
                             </p>
                         </div>
                     </div>
