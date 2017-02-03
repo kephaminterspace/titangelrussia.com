@@ -470,7 +470,7 @@
                     <div class="support">
                         <p>Hotline: 01635 243 892</p>
                         <p>718 Đường Láng - Đống Đa - Hà Nội</p>
-                        <p>Cách dùng TITAN GEL cùng với 3 bài tập: </p>
+                        <p>Cách dùng TITAN GEL cùng với 3 bài tập</p>
                         <p>&nbsp;&nbsp;&nbsp;Bài tập 1 - <a href="https://www.youtube.com/watch?v=9Ci-noZzgqo&feature=youtu.be" target="_blank">Stretching</a></p>
                         <p>&nbsp;&nbsp;&nbsp;Bài tập 2 - <a href="https://www.youtube.com/watch?v=8s8KZx11M7E" target="_blank">jelqing</a></p>
                         <p>&nbsp;&nbsp;&nbsp;Bài tập 3 - <a href="https://www.youtube.com/watch?v=2ozo7nv4Axg" target="_blank">Kegel</a></p>
