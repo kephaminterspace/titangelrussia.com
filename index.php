@@ -211,7 +211,7 @@
                                 </div>
 
                                 <div class="block_form">
-                                    <input type="text" id="address" name="address" value="<?php if(isset($_POST['address'])) { echo $_POST['address']; } ?>"  placeholder='Địa chỉ *' required oninvalid="setCustomValidity('Địa chỉ không để trống')" oninput="setCustomValidity('')"/>
+                                    <textarea id="address" name="address" rows="2" cols="0" placeholder="Địa chỉ *" style="width: 100%;padding: 10px;border: #888 1px solid; border-radius: 5px;" required oninvalid="setCustomValidity('Địa chỉ không để trống')" oninput="setCustomValidity('')"><?php if(isset($_POST['address'])) { echo $_POST['address']; } ?></textarea>
                                 </div>
 
                                 <div class="block_form">
@@ -250,7 +250,7 @@
                                 </div>
 
                                 <div class="block_form">
-                                    <textarea name="ghi_chu" rows="2" cols="0" placeholder="Ghi chú" style="width: 100%;padding: 10px;border: #888 1px solid; border-radius: 5px;"></textarea>
+                                    <textarea name="ghi_chu" rows="1" cols="0" placeholder="Ghi chú" style="width: 100%;padding: 10px;border: #888 1px solid; border-radius: 5px;"><?php if(isset($_POST['ghi_chu'])) { echo $_POST['ghi_chu']; } ?></textarea>
                                 </div>
                                 <p>Hotline: <strong style="font-size: 23px;color: red;">01635 243 892</strong></p>
                                 <p>Giá: <b>750.000 đ</b></p>
