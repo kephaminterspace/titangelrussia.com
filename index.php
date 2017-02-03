@@ -482,11 +482,6 @@
 <!--                            <li><a href="https://www.youtube.com/watch?v=2ozo7nv4Axg" class="ok" target="_blank"></a></li>-->
 <!--                        </ul>-->
 <!--                    </div>-->
-                    <div class="copy-footer" style="text-align: center;">
-                        <div>«Titan Gel» - Tăng kích thước dương vật</div>
-                        <div>Trang web cung cấp Titan Gel ở Việt Nam</div>
-
-                    </div>
                 </div>
 
                 <div class="col-xs-4 fm-footer">
@@ -499,6 +494,11 @@
                         <div class="title_form">Thời gian còn lại để mua:</div>
                         <div id="countdown" class="countdownHolder"><span class="countDays"><span class="position"></span></span></div>
                         <a href="#dat_hang" class="redbtn">Đặt hàng</a>
+                        <div class="copy-footer" style="text-align: center;">
+                            <div>«Titan Gel» - Tăng kích thước dương vật</div>
+                            <div>Trang web cung cấp Titan Gel ở Việt Nam</div>
+
+                        </div>
                     </div>
                 </div>
             </div>

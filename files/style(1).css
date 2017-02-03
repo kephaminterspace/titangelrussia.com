@@ -41,9 +41,9 @@
 	margin-left: 15px;
 	margin-top: 30px;
 }
-.copy-footer {
-	left: 680px !important;
-}
+/*.copy-footer {*/
+	/*left: 680px !important;*/
+/*}*/
 
 .support a:hover{
 	color: #ec1c24;

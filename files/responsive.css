@@ -389,7 +389,7 @@
 
 	.social{margin: 10px 0 20px;}
 
-	.copy-footer{position: absolute; bottom: 0; left: 0; right: 0; text-align: center; background: #000; font-size: 12px; line-height: 18px; padding: 15px 0;}
+	.copy-footer{ bottom: 0; left: 0; right: 0; text-align: center; background: #000; font-size: 12px; line-height: 18px; padding: 15px 0;}
 
 
 
@@ -559,7 +559,7 @@
 
 	.fm-footer{position: static;}
 
-	.copy-footer{position: absolute; bottom: 0; left: 0; right: 0;}
+	.copy-footer{bottom: 0; left: 0; right: 0;}
 
 
 
