@@ -469,18 +469,19 @@
                     <div class="sub_st" style="text-align: center;">kết quả rõ rệt trong 4 tuần</div>
                     <div class="support">
                         <p>Hotline: 01635 243 892</p>
-                        <p>Điện thoại: 0979 617 634</p>
                         <p>718 Đường Láng - Đống Đa - Hà Nội</p>
-                        <p>Bản quyền thuộc về <a href="http://yeulanhmanh.com/" >"Yêu Lành Mạnh"</a></p>
+                        <p>Cách dùng TITAN GEL cùng với 3 bài tập: </p>
+                        <p>&nbsp;&nbsp;&nbsp;Bài tập 1 - <a href="https://www.youtube.com/watch?v=9Ci-noZzgqo&feature=youtu.be" target="_blank">Stretching</a></p>
+                        <p>&nbsp;&nbsp;&nbsp;Bài tập 2 - <a href="https://www.youtube.com/watch?v=8s8KZx11M7E" target="_blank">jelqing</a></p>
+                        <p>&nbsp;&nbsp;&nbsp;Bài tập 3 - <a href="https://www.youtube.com/watch?v=2ozo7nv4Axg" target="_blank">Kegel</a></p>
                     </div>
-                    <div class="social">
-                        <ul>
-                            <li><a href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/" class="fb" target="_blank"></a></li>
-                            <li><a href="#dat_hang" class="tw"></a></li>
-                            <li><a href="#dat_hang" class="vk"></a></li>
-                            <li><a href="#dat_hang" class="ok"></a></li>
-                        </ul>
-                    </div>
+<!--                    <div class="social">-->
+<!--                        <ul>-->
+<!--                            <li><a href="https://www.youtube.com/watch?v=9Ci-noZzgqo&feature=youtu.be" class="ok" target="_blank"></a></li>-->
+<!--                            <li><a href="https://www.youtube.com/watch?v=8s8KZx11M7E" class="ok" target="_blank"></a></li>-->
+<!--                            <li><a href="https://www.youtube.com/watch?v=2ozo7nv4Axg" class="ok" target="_blank"></a></li>-->
+<!--                        </ul>-->
+<!--                    </div>-->
                     <div class="copy-footer" style="text-align: center;">
                         <div>«Titan Gel» - Tăng kích thước dương vật</div>
                         <div>Trang web cung cấp Titan Gel ở Việt Nam</div>
@@ -489,7 +490,7 @@
                 </div>
 
                 <div class="col-xs-4 fm-footer">
-                    <div class="fb-page" data-href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/">Gel Titan Nga</a></blockquote></div>
+                    <div class="fb-page" data-href="https://www.facebook.com/titangelrussia.comm/"  data-height="280" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gel-Titan-Nga-01635243892-2251750111630563/">Gel Titan Nga</a></blockquote></div>
                 </div>
 
                 <div class="col-xs-4 fm-footer">
